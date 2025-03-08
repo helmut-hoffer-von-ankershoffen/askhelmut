@@ -6,5 +6,8 @@
 
 - Initial commit - ([dfce7eb](https://github.com/helmut-hoffer-von-ankershoffen/askhelmut/commit/dfce7ebb69b363577a59592b00cf31f3ae8ac96d))
 
+## New Contributors ❤️
+
+* @helmut-hoffer-von-ankershoffen made their first contribution
 
 
