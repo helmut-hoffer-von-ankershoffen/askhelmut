@@ -1,6 +1,6 @@
 [project]
 name = "askhelmut"
-version = "0.0.1"
+version = "0.0.2"
 description = "🤖 Exploration."
 readme = "README.md"
 authors = [
@@ -242,7 +242,7 @@ source = ["src/"]
 
 
 [tool.bumpversion]
-current_version = "0.0.1"
+current_version = "0.0.2"
 parse = "(?P<major>\\d+)\\.(?P<minor>\\d+)\\.(?P<patch>\\d+)"
 serialize = ["{major}.{minor}.{patch}"]
 search = "{current_version}"
